@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @shreeteja22
+👋 Hi, I’m @shreeteja22
 
 - 👀 I’m interested in software development, data structures and algorithms (DSA), and web development.
 - 🌱 I’m currently learning DSA using C++, Python, and expanding my knowledge in web technologies (HTML/CSS).
